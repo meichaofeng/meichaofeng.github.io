@@ -1,0 +1,17 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	background: #006;
+}
+h1{
+	color:#fff;
+}
+.text1,.text2,.text3{
+	width:100%;
+	height:30px;
+	font-size:14px;
+	color:#900;
+	background:#050;
+}
